@@ -1,0 +1,27 @@
+body {
+    background-color: black;
+    font-size: 20px;
+    color: wheat;
+}
+head {
+    color: aliceblue;
+}
+p {
+    color: black;
+}
+
+div {
+    width: 1000px;
+}
+
+span {
+    color: purple;
+}
+
+.top {
+    background-color: grey;
+}
+
+.bottom {
+    background-color: aqua;
+}
