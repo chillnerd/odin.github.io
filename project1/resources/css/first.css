@@ -9,6 +9,7 @@ head {
 }
 p {
     color: black;
+    line-height: 50px;
 }
 
 div {
@@ -26,3 +27,39 @@ span {
 .bottom {
     background-color: aqua;
 }
+
+.bot {
+    width: 1000px;
+    height: 500px;
+    background-image: url(../img/cutie.png);
+    background-size: cover;
+    background-position: center;
+    color: black;
+    background-color: blanchedalmond;
+    margin: 10px;
+    border: 10px;
+    border-style: solid;
+    border-color: red;
+    padding: 50px 20px 50px 50px;
+    font-size: 20px;
+    line-height: 40px;
+}
+
+.after {
+    text-decoration: underline;
+    text-decoration-color: aqua;    
+    font-size: 55px;
+}
+
+a:hover {
+    color: yellow;
+}
+
+/*  This part makes the links change color when it is clicked (deleting cookies refreshes it back) 
+
+a:visited {
+    color: plum;
+}
+
+*/
+
