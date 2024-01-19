@@ -1,5 +1,10 @@
 body {
-    background-color: white;
-    height: 100vh;
     color: black;
+    background-color: white;
+    height: 100lvh;
+}
+
+.intro {
+    margin-left: 25px;
+    padding-top: 4px;
 }
